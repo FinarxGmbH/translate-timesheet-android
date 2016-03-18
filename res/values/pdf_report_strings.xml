@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title -->
+    <string name="pdf_title">Timesheet</string>
+    <string name="pdf_version">- Standardversion 01/01 -</string>
+    
+    <!-- Header Table -->
+    <string name="pdf_company">Company:</string>
+    <string name="pdf_contractor">(Contractor)</string>
+    <string name="pdf_worker_one">eingesetzter</string>
+    <string name="pdf_worker_two">Worker:</string>
+    <string name="pdf_project_number">Project-ID</string>
+    <string name="pdf_project_number_under">(AN-Interne KZ):</string>
+    <string name="pdf_order_number">Order.-Nr.</string>
+    <string name="pdf_category">Category:</string>
+    <string name="pdf_name_of">Name des</string>
+    <string name="pdf_project_leader">Projectmanager:</string>
+    <string name="pdf_costumer">(Customer)</string>
+    <string name="pdf_department">Department:</string>
+    <string name="pdf_mon_year">Period</string>
+    <string name="pdf_project_name">Project:</string>
+    
+    <!-- Main Table -->
+    <string name="pdf_day">Day:</string>
+    <string name="pdf_from">Start:</string>
+    <string name="pdf_to">End:</string>
+    <string name="pdf_working_hours">Hours</string>
+    <string name="pdf_break_time">Breaktime:</string>
+    <string name="pdf_sum_of_hours">Workingtime</string>
+    <string name="pdf_person_days">Persondays</string>
+    <string name="pdf_note">Notes</string>
+    <string name="pdf_ref_number">Reference-Nr.</string>
+    
+    <!-- Foot Table -->
+    <string name="pdf_sign">Signature</string>
+    <string name="pdf_total_hours">Total Hours</string>
+    <string name="pdf_sum_mt">Total days:</string>
+    <string name="pdf_person_days_small">days</string>
+    <string name="pdf_ak">Cost Center</string>
+    <string name="pdf_present_days">Days on site</string>
+    <string name="pdf_a_mt">chargeable days:</string>
+    <string name="pdf_date">Date:</string>
+    
+    
+    <string name="pdf_budget">Budgetüberwachung:</string>
+    <string name="pdf_please_enter_man_days">Bitte tragen Sie die geleisteten Personentage ein.</string>
+    <string name="pdf_sign_plus_name">Unterschrift + Namensstempel Projektleiter o.V.</string>
+    <string name="pdf_black">(Bitte nicht in Schwarz unterschreiben!)</string>
+    <string name="pdf_data_of_ref">Angabe Ref.Nr/Pj.phase u. Abt.Kst. zwingend!!!</string>
+    <string name="pdf_all_pd">Gesamtpersonentage lt. Vertrag</string>
+    <string name="pdf_pd_less_billed">abzgl. bereits abgerechnet:</string>
+    <string name="pdf_pd_less_this_month">abzgl. dieses Monats:</string>
+    <string name="pdf_pd_rest">Rest an Personentage:</string>
+
+    <string name="pdf_original_proof_of_wokr">Der Arbeitsnachweis ist als original der Rechnung beizulegen. Rechnungen sind projektspezifisch zu gliedern.</string>
+    <string name="pdf_completed_in_full">Dieser Arbeitsnachweis ist unbeding vollständig auszufüllen!</string>
+    <string name="pdf_second_version">Version: 01/01 - Anlage B aus dem Rahmenvertrag "EDV-Leistungen"</string>
+    <string name="pdf_revenue">Revenue:</string>
+
+
+    <string name="pdf_employee_name">Employee:</string>
+    <string name="pdf_page_number_seperator">of</string>
+    <string name="pdf_watermark">This report was created with Timesheet Cloud Lite. \nIf you are interested in Timesheet Cloud Pro, please visit https://timesheet.finarx.net/prices.html</string>
+    <string name="pdf_date_place">Date, Place</string>
+    <string name="pdf_task_name">Task:</string>
+    <string name="pdf_customer_name">Customer:</string>
+    <string name="pdf_total_revenue">Total revenue:</string>
+    <string name="pdf_rate_per_hour">Rate per hour:</string>
+    <string name="pdf_rate_per_entry">Rate per entry:</string>
+    <string name="pdf_period_of_time">Period of time:</string>
+    <string name="pdf_month">Month:</string>
+    <string name="pdf_week">Week:</string>
+    <string name="pdf_number_abbr">No.</string>
+
+    <string name="pdf_no_customer_name">NO CUSTOMER</string>
+    <string name="pdf_no_project_name">NO PROJECT</string>
+    <string name="pdf_no_task_name">NO TASK</string>
+
+    <string name="pdf_wait_dialog_message">Please wait, I create the report for you</string>
+
+    <string name="pdf_pick_report_type">Pick a report type:</string>
+    <string name="pdf_pick_report_grouping">Group report by:</string>
+    <string name="pdf_user_report">User report</string>
+    <string name="pdf_task_report">Task report</string>
+    <string name="pdf_customer_report">Customer report</string>
+    <string name="pdf_weekly_report">Project weekly report</string>
+    <string name="pdf_monthly_report">Project monthly report</string>
+
+    <string name="pdf_groupby_none">No grouping</string>
+    <string name="pdf_groupby_user">Users</string>
+    <string name="pdf_groupby_customer">Customers</string>
+    <string name="pdf_groupby_project">Projects</string>
+    <string name="pdf_groupby_task">Tasks</string>
+
+    <!-- Settings -->
+
+    <string name="pdf_pref_title_exclude_notes">Exclude notes</string>
+    <string name="pdf_pref_sum_exclude_notes_on">Exclude notes from the report</string>
+    <string name="pdf_pref_sum_exclude_notes_off">Include notes in the report</string>
+
+    <!-- User/Customer report settings-->
+    <string name="pdf_pref_title_working_from">From</string>
+    <string name="pdf_pref_title_working_to">To</string>
+    <string name="pdf_pref_title_hours">Hours</string>
+    <string name="pdf_pref_title_notes">Notes</string>
+    <string name="pdf_pref_title_revenue">Revenue</string>
+    <string name="pdf_pref_title_rate_per_hour">Rate per hour</string>
+    <string name="pdf_pref_title_rate_per_entry">Rate per entry</string>
+
+    <string name="pdf_pref_sum_working_from_on">Show the \'from\' column</string>
+    <string name="pdf_pref_sum_working_to_on">Show the \'to\' column</string>
+    <string name="pdf_pref_sum_notes_on">Show the \'notes\' column</string>
+    <string name="pdf_pref_sum_rate_per_hour_on">Show the \'rate per hour\' column</string>
+    <string name="pdf_pref_sum_rate_per_entry_on">Show the \'rate per entry\' column</string>
+    <string name="pdf_pref_sum_revenue_on">Show the \'Revenue\' column</string>
+    <string name="pdf_pref_sum_hours_on">Show the \'Hours\' column</string>
+
+    <string name="pdf_pref_sum_working_from_off">Hide the \'from\' column</string>
+    <string name="pdf_pref_sum_working_to_off">Hide the \'to\' column</string>
+    <string name="pdf_pref_sum_notes_off">Hide the \'notes\' column</string>
+    <string name="pdf_pref_sum_rate_per_hour_off">Hide the \'rate per hour\' column</string>
+    <string name="pdf_pref_sum_rate_per_entry_off">Hide the \'rate per entry\' column</string>
+    <string name="pdf_pref_sum_revenue_off">Hide the \'Revenue\' column</string>
+    <string name="pdf_pref_sum_hours_off">Hide the \'Hours\' column</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timesheet</string>
+    <string name="empty_title"></string>
+    <string name="support_app_name">Timesheet</string>
+
+    <string-array name="navigation_keys">
+        <item>Workingtimes</item>
+        <item>Tasks</item>
+        <item>Projects</item>
+        <item>Customers</item>
+    </string-array>
+    <string-array name="navigation_names">
+        <item>Workingtimes</item>
+        <item>Tasks</item>
+        <item>Projects</item>
+        <item>Customers</item>
+        <item>Customers</item>
+        <item>Customers</item>
+        <item>Customers</item>
+        <item>Customers</item>
+        <item>Customers</item>
+        <item>Customers</item>
+        <item>Customers</item>
+    </string-array>
+    <string-array name="filter_names">
+        <item>Alle</item>
+        <item>7 Tage</item>
+        <item>Aktueller Monat</item>
+        <item>Letzte 60 Tage</item>
+        <item></item>
+        <item>Archivierte</item>
+        <item>Synchronisierte</item>
+        <item></item>
+        <item>Gestartete</item>
+        <item></item>
+        <item>Cloud: AZIT</item>
+        <item>Cloud: FINARX</item>
+        <item></item>
+        <item>Freier Filter</item>
+        <item>Suche</item>
+ --></string-array>
+
+</resources>

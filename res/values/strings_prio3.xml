@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="confirm_delete_customer">Do you really want to delete this customer?</string>
+    <string name="confirm_discard_changes">Do you really want to discard your changes?</string>
+    <string name="write_extended_support_log">Write extended logs for email support</string>
+    <string name="confirm_delete_all_customers">Do you really want to delete all customers from this list?</string>
+    <string name="error_working_time_inconsistent_server_references">Invalid project or task. Server based projects or tasks are not allowed for selection here. </string>
+    <string name="delete_locally_edited_wt">Deleted locally edited server item</string>
+    <string name="confirm_delete_syncserver">Do you really want to delete this server connection?</string>
+    <string name="confirm_delete_all_syncservers">Do you really want to delete all these connections?</string>
+    <string name="syncserver_adminwarning">Caution. The admin user is not allowed for sync.</string>
+    <string name="syncserver_misswarning">Server URL, login name and password need to be set.</string>
+    <string name="syncserver_check_password">Check login and password</string>
+    <string name="error_server_offline">server \'%1$s\' is offline</string>
+    <string name="error_server_timout">connection to \'%1$s\' timed out</string>
+    <string name="syncserver_update_ref_tasks">update referenced tasks</string>
+    <string name="syncserver_update_ref_projects">update referenced projects</string>
+    <string name="syncserver_full_sync_rev">Full sync successful to revision %1$s</string>
+    <string name="syncserver_already_sync_rev">Revision %1$s already in-sync</string>
+    <string name="syncserver_num_proj_tasks">%1$s projects, %2$s tasks</string>
+    <string name="syncserver_delete_old_hashes">delete old hashes</string>
+    <string name="unable_to_edit_readonly_object">Unable to edit readonly object.</string>
+    <string name="no_app_installed_for_handling_content">No appropriate App installed for handling content.</string>
+    <string name="sync_override_commit">Override Commit</string>
+    <string name="summary_sync_override_commit">The client overrides in case of conflicts with the server. Use this option if the mobile client is the primary device for data entry.</string>
+    <string name="confirm_delete_project">Do you really want to delete this project?</string>
+    <string name="confirm_delete_all_projects">Do you really want to delete all projects from this list?</string>
+        <string name="confirm_delete_task">Do you really want to delete this task?</string>
+    <string name="confirm_delete_all_tasks">Do you really want to delete all tasks from this list?</string>
+    <string name="confirm_delete_workingtime">Do you really want to delete this working time record?</string>
+    <string name="confirm_delete_all_workingtimes">Do you really want to delete all working time records from this list?</string>
+        <string name="update_available">There is an update available for this application. Please update.</string>
+    <string name="rounded_start">Caution! Start time has been rounded!</string>
+    <string name="rounded_end">Caution! End time has been rounded!</string>
+        <string name="confirm_delete_presence">Do you really want to delete this presence?</string>
+    <string name="confirm_delete_all_presences">Do you really want to delete all presences in this list?</string>
+        <string name="summary_warn_overlapping_workingtimes">When booking a working time that overlaps with an already existing entry a warning is displayed.</string>
+    <string name="title_warn_overlapping_workingtimes">Overlapping Entries</string>
+    <string name="warn_overlapping_workingtimes">Overlapping working time entries exist! Although in the reporting the time will be merged, the rates will be calculated multiple times.</string>
+    
+</resources>

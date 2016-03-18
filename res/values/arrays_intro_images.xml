@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="intro_images">
+        <item>@drawable/tut_timetracking</item>
+        <item>@drawable/tut_position</item>
+        <item>@drawable/tut_sync</item>
+        <item>@drawable/tut_webcenter</item>
+        <!--item>@drawable/intro_timesheet_cloud</item-->
+    </array>
+
+</resources>

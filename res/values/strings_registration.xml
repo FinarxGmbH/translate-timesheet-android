@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="registration_post_uri">https://timesheet.finarx.net/registration?action=create_mobile</string>
+  <!--<string name="registration_post_uri">https://qs01.finarx.net/registration?action=create_mobile</string>-->
+    <string name="registration_param_email" translatable="false">email</string>
+    <string name="registration_param_mandant" translatable="false">password</string>
+    <string name="registration_param_password" translatable="false">password</string>
+    <string name="registration_param_terms" translatable="false">agb</string>
+
+
+ <string name="mandant_url_prefix">https://timesheet.finarx.net/m/%1$s</string>
+ <string name="mandant_url_hint">Reserve your Qlaqs-Name now!</string>
+ <string name="mandant_url_info">With this Link you can access the Qlaqs WebCenter:</string>
+</resources>

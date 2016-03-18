@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="intro_titles">
+        <item>Book your times...</item>
+        <item>Your position counts!</item>
+        <item>Your team in line</item>
+        <item>Benefit from Qlaqs WebCenter</item>
+    </string-array>
+    <string-array name="intro_content">
+        <item>... alone or in a team.</item>
+        <item>Use location awareness to remind you of the timesheet.</item>
+        <item>Qlaqs holds project budgets, tasks and evaluations in sync.</item>
+        <item>Create new users, manage your team, generating accurate reports of your activities.</item>
+    </string-array>
+
+</resources>

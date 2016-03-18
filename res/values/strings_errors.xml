@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Errors of missing things -->
+    <string name="error_no_mandant">Enter a mandant name</string>
+    <string name="error_no_email">Enter your email address</string>
+    <string name="error_no_login">Enter your login name</string>
+    <string name="error_no_password">Enter a password</string>
+    <string name="error_no_url">Enter the URL of the cloud server</string>
+    <string name="error_conditions_not_accepted">You have to accept the terms &amp; conditions</string>
+    <string name="error_no_import_rights">You have no rights to export data into the cloud</string>
+    <string name="error_no_qlaqs">Enter a Qlaqs namen</string>
+
+    <!-- Errors of wrong things -->
+    <string name="error_passwords_dont_match">The passwords dont\'t match</string>
+    <string name="error_password_to_short_fmt">The password needs a minimum length of %d characters</string>
+    <string name="error_possibly_timeout_dismiss_dialog">There is possibly a connection timeout. Click outside to dismiss</string>
+    <string name="error_no_connection_to_server">Can\'t connect to server</string>
+    <string name="error_unknown_user">Unknown user</string>
+    <string name="error_unknown_mandant">Unknown mandant</string>
+    <string name="fmt_server_error">Servererror: %1$s</string>
+
+    <!-- Errors of failing things -->
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_registration_timeout">Registration request timed out</string>
+    <string name="error_sync_failed">Faild to syncronize with the cloud</string>
+    <string name="error_failed_to_send_data">Failed to send data</string>
+    <string name="error_login_failed_srv_msg">"Login failed - \'%s\'"</string>
+    <string name="warn_failed_commit_some_wt">Failed to commit some working time changes, please try again later</string>
+    
+</resources>

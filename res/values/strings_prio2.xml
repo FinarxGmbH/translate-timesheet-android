@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="acquire_location">Acquire location</string>
+    <string name="acquiring_location">Acquiring current location&#8230;</string>
+    <string name="acquiring_last_known_location">Acquiring (last known) location&#8230;</string>
+    <string name="location_update_start" formatted="false">Start location update: %.4f, %.4f</string>
+    <string name="location_update_end" formatted="false">End location update: %.4f, %.4f</string>
+    <string name="show_location">Show location on map</string>
+    <string name="title_automatically_wifi">WiFi Booking</string>
+    <string name="summary_automatically_wifi">Automatically book workingtimes when entering or leaving a WLAN</string>
+    <string name="title_automatically_log_note">Log Bookings</string>
+    <string name="summary_automatically_log_note">Log automatic bookings in the note of the workingtimes</string>
+    <string name="title_autobook_activities">Log Activities in Presences</string>
+    <string name="summary_autobook_activities">Requires hardware support. Detects driving, walking and staying at a place to assist booking.</string>
+    <string name="title_network_scan_interval_minutes">Network Scan Interval</string>
+    <string name="summary_network_scan_interval_minutes">Interval in minutes after which a network scan or bluetooth scan may occur. This is only relevant for wifi networks in which the android device is not authenticated and for bluetooth beacons.</string>
+    <string name="title_automatic_backup">Automatic Backup</string>
+    <string name="summary_automatic_backup">Create backup files for support purposes.</string>
+    
+    
+    <string name="title_powersafe">Powersafe</string>
+    <string name="summary_powersafe">Disable all power consuming functions like geolocation and automatic cloud synchronization.</string>
+    
+    <!-- Map View -->
+    <string name="title_map_view">Working time location</string>
+    <string name="title_customer_map">Position of customer %s</string>
+    <string name="title_project_map">Position of project %s</string>
+    <string name="title_task_map">Position of task %s</string>
+    <string name="sync_servers">Timesheet Cloud servers</string>
+    <string name="sync_server">Timesheet Cloud server</string>
+    <string name="new_syncserver">New Timesheet Cloud server</string>
+    <string name="title_syncservers_list">Timesheet Cloud servers</string>
+    <string name="title_syncserver_display">Timesheet Cloud server details</string>
+    <string name="title_syncserver_edit">Edit Timesheet Cloud server</string>
+    <string name="sync_pending">Sync pending</string>
+    <string name="sync_error">Sync failed</string>
+    <string name="revert">Revert</string>
+    <string name="revert_local">Revert local entries</string>
+    <string name="update">Update only</string>
+    <string name="commit">Commit changes</string>
+    <string name="sync">Synchronize</string>
+    <string name="rehash">Re-Calculate Hashes</string>
+    <string name="hash_check">Consistency Check</string>
+    <string name="syncserver_saved">Server \'%s\' saved</string>
+    <string name="syncserver_deleted">Server \'%s\' discarded</string>
+    <string name="syncserver_unset_name">Qlaqs-Name</string>
+    <string name="syncserver_unset_url">Server URL</string>
+    <string name="syncserver_login">User name or e-mail</string>
+    <string name="syncserver_password">Password</string>
+    <string name="flextime_mode">Flexible time mode</string>
+    <string name="default_personhours">default person hour(s)</string>
+    <string name="rounding_and_default_pause">Rounding &amp; default lunch break</string>
+    <string name="total_hours_and_revenue">Total revenue &amp; hours</string>
+    <string name="rate_per_hour_and_entry">Rate per hour &amp; entry</string>
+    <string name="default_pause_matches">Lunch break time matches. Shall the entry exclude the break time?</string>
+    <string name="time_rounding_no_minutes_selected">Time rounding has been activated without providing the rounding interval</string>
+    <string name="default_pause_requires_both">Default break requires start and end time being set</string>
+    <string name="default_pause_negative">End time of break pause needs to be set after start time</string>
+    <string name="title_default_lunch_break_in_editor_booking">Break time when booking</string>
+    <string name="summary_default_lunch_break_in_editor_booking">Working times may be split or capped when entering new items according to the lunch break time of a project or a customer.</string>
+    <string name="title_default_lunch_break_in_reporting">Break time in report</string>
+    <string name="summary_default_lunch_break_in_reporting">Working times may be split or capped during report calculations.</string>
+    <string name="title_default_lunch_break_settings_template">Break time from settings</string>
+    <string name="summary_default_lunch_break_settings_template_on">Globally valid. Above break time will be used even if the project and customer have not break time set.</string>
+    <string name="summary_default_lunch_break_settings_template_off">Default value only. Above break time will not be used in calculations and bookings.</string>
+    <string name="title_lists_show_rates">Show Rates.</string>
+    <string name="summary_lists_show_rates">Switch display of rates in lists.</string>
+    <string name="title_lists_show_hours_not_minutes">Displayformat for Duration</string>
+    <string name="summary_lists_show_hours_not_minutes">When checked 90 minutes will show 1,50 hours instead of 1:30.</string>
+    
+    
+    
+</resources>

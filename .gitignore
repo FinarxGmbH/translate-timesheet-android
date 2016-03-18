@@ -30,3 +30,9 @@ proguard/
 
 # Android Studio captures folder
 captures/
+/res/values/.svn
+/res/values/colors*.xml
+/res/values/dim*.xml
+/res/values/id*.xml
+/res/values/theme*.xml
+/res/values/style*.xml

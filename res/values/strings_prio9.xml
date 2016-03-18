@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Sherlock -->
+    <string name="list_navigation_content">       hier kommt die liste rein</string>
+
+    <string-array name="locations">
+        <item>Workingtimes</item>
+        <item>Tasks</item>
+        <item>Projects</item>
+        <item>Customers</item>
+    </string-array>
+
+    <string name="sync_calendar">Sync with calendar</string>
+    <string name="gcalendar">Google Calendar</string>
+    <!-- calendar sample -->
+
+    <string name="switch_account">Switch Account</string>
+    <string name="new_calendar">New Calendar</string>
+    <string name="update_title">Update Title</string>
+    <string name="select_calendar">Select Calendar</string>
+    <string name="synchronize">Synchronize Calendar</string>
+    <string name="view_calendar">View Calendar</string>
+    <string name="calsync_usedtwice">Only one calendar can associated with one customer at a time. Please select another calendar. </string>
+    <string name="calsync_usedtwice_at_sync">Only one calendar can associated with one customer at a time. Please change the associated calendar of this customer. </string>
+    <string name="calsync_warning">During synchronization with Google Calendar, Working Time-entries with the same identifier will be overwritten by the newer version (in the Google Calendar OR in this application). </string>
+    <string name="toast_multiple_accounts">Multiple Google Accounts detected.\nPlease select Google Account.</string>
+    <string name="select_secondary_calendar">Main calendars cannot be synchronized.\nPress menu button to create additional (secondary) calendars.\nAll calendars (except main) for:\n</string>
+    <string name="no_account_calendar">No Google Account/Calendar available.</string>
+    <string name="override_entry_type_gcal">Google Calendar entry:</string>
+    <string name="conflict_title">Conflict emerged</string>
+    <string name="conflict_option_local">Local</string>
+    <string name="conflict_option_gcal">Calendar</string>
+    <string name="conflict_message_or"> (alias)\n</string>
+    <string name="conflict_message_main">\n\nwas edited locally and on the Google Calendar after the last synchronization. \n\nWhich entry should override the other? </string>
+    <string name="no_customer_with_calendar">No customer with associated Google Calendar available.</string>
+    <string name="select_customer_with_calendar">Select customer to synchronize with associated Google Calendar. </string>
+    <string name="sync_reminder">Before you synchronize, please do not forget to associate new Customers with Projects, Tasks and Working times.</string>
+    <string name="sync_new_local_entries">new local entries\n</string>
+    <string name="sync_new_gcal_entries">new calendar entries\n</string>
+    <string name="sync_updated_local_entries">updated local entries\n</string>
+    <string name="sync_updated_gcal_entries">updated calendar entries\n</string>
+    <string name="sync_deleted_local_entries">deleted local entries\n</string>
+    <string name="sync_deleted_gcal_entries">deleted calendar entries</string>
+    <string name="sync_calendar_error_title">Synchronization error</string>
+    <string name="sync_calendar_error_message">The Google Calendar associated with this Customer may have been edited or deleted. Please check / update the selected Google Calendar information associated with the selected Customer.</string>
+    <string name="sync_calendar_error_gotocustomer">Examine Customer&#8230;</string>
+    <string name="delete_message_start">The Google Calendar entry of the local working time:\n\n</string>
+    <string name="delete_message_end">\n\nwas not found on the calendar of this customer.\n\nWhat do you want to do with the local working time?</string>
+    <string name="delete_option_local">Re-upload</string>
+    <string name="delete_cal_entry_missing">Google Calendar entry missing</string>
+    <string name="conflict_entry_with_name">The entry with the name: \n\n</string>
+
+</resources>
