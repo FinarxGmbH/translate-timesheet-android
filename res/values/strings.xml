@@ -488,5 +488,6 @@
     <string name="payment_due_and_amount">Payment Due Date &amp; Amount</string>
     <string name="billing_abo_not_supported_title">Google Play to old</string>
 
+    <string name="weblate_test">Weblate Test</string>
 
 </resources>
